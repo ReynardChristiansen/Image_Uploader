@@ -20,7 +20,7 @@ Before you can run the application, you need to create a `.env` file in the root
 
 You can upload images using the following API endpoint:
 
-    Upload Image: https://imagify-eight.vercel.app/api/upload
+    Upload Image (POST) : https://imagify-eight.vercel.app/api/upload
 
 ## Request Body
 
